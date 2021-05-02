@@ -1,2 +1,2 @@
-# COVID-19_TRACKER_HTML_CSS_JAVASCRIPT
+# Covid-19  Web  App
 COVID-19 with HTML5, CSS3 and JavaScript
